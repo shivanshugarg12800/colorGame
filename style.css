@@ -1,0 +1,47 @@
+body{
+    background-color: #232323;
+}
+.square{
+    width: 30%;
+    background: purple;
+    padding-bottom: 30%;
+    float:left;
+    margin:1.66%;
+
+}
+.container{
+    margin: 0 auto;
+    max-width: 600px;
+
+}
+h1{
+    margin: 20px 60px;
+    text-align: center;
+    font-size: 50px;
+    height: 100px;
+    color: white;
+    background-color: chocolate;
+    font-family: monospace;
+}
+.container1{
+    text-align: center;
+    background-color: whitesmoke;
+    height: 35px;
+}
+.container1 button{
+    font-size: 20px;
+    padding: 5px;
+    margin: 0;
+    border: none;
+    
+}
+.container1 button:active{
+    outline: none;
+}
+.container1 button:hover{
+    outline: none;
+    border: 0;
+    background-color: darkturquoise;
+    color: white;
+}
+
